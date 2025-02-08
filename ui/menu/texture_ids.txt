@@ -1,0 +1,6 @@
+Bottom Screen UI and Menu (Grayscale)
+	tex1_1024x512_AFC4EA6D5AB5E70B_7
+
+Bottom Screen UI and Menu (Color)
+	tex1_512x256_B20814E2D6573DFE_0
+	tex1_512x256_6EFC9BD1FD290C7A_0
